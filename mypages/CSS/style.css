@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: aliceblue;
+    background-color: #ff0000;
+    font-size: 150%;
+}
+nav {
+    font-variant: small-caps;
+    color: cyan;
+    background-color: burlywood;
+    text-align: right;
+}
+body{
+    color: rgb(255, 255, 255);
+    background-color: darkred;
+}
